@@ -1,5 +1,5 @@
 # About
-  This is a simple example how to make TabBar
+  This is a simple example how to make TabBar for all version
 # Requirements
 
     - Android Studio
